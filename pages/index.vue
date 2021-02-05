@@ -5,6 +5,8 @@
       <h1 class="title">
         Hello Simplon !
       </h1>
+      <p>Ca va bien ou bien ?</p>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia, dolorum.</p>
     </div>
   </div>
 </template>
